@@ -6,7 +6,7 @@ const Home = () => {
     <div>
       <TopNav />
       <div
-        className="items-center justify-items-center p-4 "
+        className="items-center p-4 "
       >
         <Hero />
       </div>

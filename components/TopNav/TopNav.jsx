@@ -3,7 +3,7 @@ import Link from "next/link";
 const TopNav = () => {
   return (
     <div
-      className="bg-url('/bg4.jpg')  rounded-md border-2 border-white/5 
+      className="bg-url('/bg4.jpg') rounded-md border-2 border-white/5 
       flex flex-row justify-between items-center p-2 px-4 m-4 shadow-lg
       font-[family-name:var(--font-geist-sans)]"
     >
