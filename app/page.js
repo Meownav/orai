@@ -5,9 +5,7 @@ const Home = () => {
   return (
     <div>
       <TopNav />
-      <div
-        className="items-center p-4 "
-      >
+      <div className="items-center p-4 ">
         <Hero />
       </div>
     </div>
