@@ -106,7 +106,6 @@ const Chat = () => {
             onKeyDown={handleKeyPress}
             disabled={isLoading}
             rows={1}
-            style={{ height: 'auto' }}
             onInput={(e) => {
               e.target.style.height = 'auto';
               e.target.style.height = e.target.scrollHeight + 'px';
